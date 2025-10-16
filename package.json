@@ -6,6 +6,7 @@
     "build": "vite build"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.75.0",
     "axios": "^1.12.2",
     "leaflet": "^1.9.4",
     "lucide-react": "^0.545.0",
